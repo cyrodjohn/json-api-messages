@@ -1,5 +1,6 @@
 {
  "messages": [
+    {"text": "Why did the chicken cross the road?"},
     {
       "attachment":{
         "type":"template",
