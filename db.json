@@ -1,7 +1,7 @@
   {
    "messages": [
       {"text": "Why did the chicken cross the road?"},
-      {"text": "A. She wanted to stretch her legs. <br> B. To cockadoodle dooo something <br> C. To get to the other slide. <br> D. They thought it was an egg-cellent idea! ",
+      {"text": "A. She wanted to stretch her legs. \n B. To cockadoodle dooo something \n C. To get to the other slide. \n D. They thought it was an egg-cellent idea! ",
       "quick_replies": [
           {
             "title":"A",
