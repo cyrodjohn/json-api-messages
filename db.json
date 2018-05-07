@@ -1,6 +1,28 @@
 {
  "messages": [
     {"text": "Why did the chicken cross the road?"},
+    {"text": "A) She wanted to stretch her legs. \n B) To cockadoodle dooo something \n C) To get to the other slide. D) They thought it was an egg-cellent idea! ",
+    "quick_replies": [
+        {
+          "title":"A",
+          "block_names": ["Thank you"]
+        },
+        {
+          "title":"B",
+          "block_names": ["Thank you"]
+        },
+        {
+          "title":"C",
+          "block_names": ["Thank you"]
+        },
+        {
+          "title":"D",
+          "block_names": ["Thank you"]
+        }
+      ]
+    },
+  
+    {"text": "Why did the chicken cross the road?"},
     {
       "attachment":{
         "type":"template",
